@@ -4,9 +4,6 @@ Here you can find repos related to my hobby projects mainly on machine learning.
 
 ### ML
   - [doxie-detector](https://github.com/nlaaksonen/doxie-detector): image classification in TensorFlow with object detection based on saliency maps. Also includes an implementation of DCGAN by using the same dataset.
-  - [liiga](https://github.com/nlaaksonen/liiga): analysis of historical statistics of the Finnish ice hockey league Liiga (WIP).
-  - [cs229](https://github.com/nlaaksonen/cs229): implementations of many fundamental ML algorithms such as locally weighted logistic regression,
-  k-means clustering and Q-learning.
   
 ### General
   - [ucl_progclub](https://github.com/nlaaksonen/ucl_progclub): slides and sample code from my presentations in the 2014-2015 iteration
